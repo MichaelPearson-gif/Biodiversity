@@ -5,4 +5,4 @@ Using the data on the Biodiversity of a human belly button that I have aquired, 
 https://belly-button-diversity-mp.herokuapp.com/
 
 
-![Alt Text](Images/biodiversity.png)
+![Alt Text](Images/biodiversity-screen-EDITED.png)
